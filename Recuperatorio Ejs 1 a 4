@@ -1,0 +1,17 @@
+# Recuperatorio-PI1
+
+
+1) Para que nos sirve un Sistema de Controlador de Versiones?
+  
+  Un SCV es un software para controlar las diferentes versiones de un código de fuente, para cuando se trabaja en equipos controlar que hace quién. También para trabajar individualmente se establece un código inicial que va sufriendo modificaciones. Este código inicial se mantiene por si en algúna de las modificaciones hay algún error.
+  
+  2) Que es una Función (o procedimiento) en C?
+  
+    Una función son comandos que ejecutan una acción dentro de un programa determinado.
+    
+  3) Menciona 5 tipo de datos básicos en C.
+  
+    -Integer: Entero.
+    - Float: Número con coma.
+    - Char: Caracter.
+    - String: Cadena de caracteres.
